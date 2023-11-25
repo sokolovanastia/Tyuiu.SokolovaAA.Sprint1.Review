@@ -19,7 +19,7 @@ namespace Tyuui.SokolovaAA.Sprint1.TaskReview.V5
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            if (Math.Abs(Math.Cos(x)) == 1)  
+            if (Math.Abs(Math.Cos(x)) == 1)   
             {
                 Console.WriteLine("Данное значение x недопустимо, так как аргумент логарфима не должен быть равен единице!!!!");
 
